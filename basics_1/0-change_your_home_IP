@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# changes localhost and facebook.com resolution
 
 cat > /etc/hosts <<'EOF'
 127.0.0.2 localhost
